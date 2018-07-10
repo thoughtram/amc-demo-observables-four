@@ -1,0 +1,9 @@
+{
+  "name": "typescript-vcxtaz",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/typescript-vcxtaz",
+  "dependencies": {
+    "rxjs": "6.2.1"
+  },
+  "version": "1.0.0"
+}
